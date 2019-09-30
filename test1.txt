@@ -5,9 +5,5 @@ void main()
 	cout<<"hello ahmad";
 	int i;
 	cin>>i;
-	cout<<"I am a C++ programer Visual Stuio Eniverment";	
-	int Level=0;
-	cout<<"Please Enter Your Level in Programming";
-	cout<<" 1- bad    2- good   3-Expert";
-	cin>>Level;
+	cout<<"I am a C++ programer";		
 }
